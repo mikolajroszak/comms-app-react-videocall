@@ -16,7 +16,7 @@
     "url": "https://github.com/dolbyio-samples/comms-app-react-videocall"
   },
   "dependencies": {
-    "@dolbyio/comms-uikit-react": "0.8.0",
+    "@dolbyio/comms-uikit-react": "1.0.3",
     "@emotion/react": "^11.9.0",
     "@voxeet/voxeet-web-sdk": "3.8.0",
     "axios": "^0.26.1",
